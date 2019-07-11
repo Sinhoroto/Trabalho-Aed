@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1560713738 source:c:\users\rober\desktop\aed\lab9-1\main9.c
+	<stdio.h>
+	<stdlib.h>
+	"header9.h"
+
+1560714058 c:\users\rober\desktop\aed\lab9-1\header9.h
+
+1560714058 source:c:\users\rober\desktop\aed\lab9-1\funcoes9.c
+	<stdio.h>
+	<stdlib.h>
+	"header9.h"
+
+1561544093 source:c:\users\bruno\desktop\lbas\lab9-1\funcoes9.c
+	<stdio.h>
+	<stdlib.h>
+	"header9.h"
+
+1560896044 c:\users\bruno\desktop\lbas\lab9-1\header9.h
+

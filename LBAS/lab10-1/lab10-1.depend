@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561547476 source:c:\users\bruno\desktop\lbas\lab10-1\lab101.c
+	<stdio.h>
+	<stdlib.h>
+	"hd101.h"
+
+1561547439 c:\users\bruno\desktop\lbas\lab10-1\hd101.h
+

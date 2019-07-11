@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555438702 source:/home/gabriel/Desktop/UFU/UFU/2 periodo/AED1/LAB/Lab4/racionais.c
+	<stdio.h>
+	<stdlib.h>
+	"racionais.h"
+
+1555439916 /home/gabriel/Desktop/UFU/UFU/2 periodo/AED1/LAB/Lab4/racionais.h
+
+1555440155 source:/home/gabriel/Desktop/UFU/UFU/2 periodo/AED1/LAB/Lab4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"racionais.h"
+
